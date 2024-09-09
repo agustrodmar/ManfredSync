@@ -166,7 +166,12 @@
           {
             "name": "Fulfillment Associate",
             "startDate": "2023-06-01",
-            "finishDate": "2023-10-31"
+            "finishDate": "2023-10-31",
+            "challenges": [
+              {
+                "description": "Coordinación con diferentes departamentos para resolver problemas operativos y asegurar el flujo continuo de productos.\n\nImplementación y mantenimiento de soluciones tecnológicas para optimizar procesos operativos en el centro de cumplimiento.\n\nConfiguración y soporte de hardware y software, incluyendo la resolución de problemas técnicos para minimizar el tiempo de inactividad.\n\nOperación de equipos de escaneo y manejo de sistemas automatizados para la gestión eficiente de inventarios."
+              }
+            ]
           }
         ]
       },
