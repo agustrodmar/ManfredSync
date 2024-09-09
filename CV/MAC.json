@@ -172,12 +172,44 @@
       },
       {
         "organization": {
-          "name": "Self-employed"
+          "name": "Self-employed",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/09/39842db1-4e3a-4486-af56-a08e9cac9ffb_soft.jpg",
+            "alt": "soft.jpg"
+          },
+          "URL": "https://agusrmarquezportfolio.netlify.app/"
         },
         "roles": [
           {
             "name": "Técnico informático",
-            "startDate": "2022-11-01"
+            "startDate": "2022-11-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de aplicaciones web para clientes.\n\nDesarrollo de aplicaciones de escritorio para la gestión financiera de la empresa basada en Java, Spring y MySQL.\n\nGestión y mantenimiento de bases de datos en empresas clientes.\n\nMantenimiento y reparación de equipos electrónicos."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Arduino",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "JavaFX",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
