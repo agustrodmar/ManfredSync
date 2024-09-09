@@ -246,7 +246,8 @@
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/09/98aec2cb-5859-4624-8292-133a873fdb61_linkedin-photo-65448.linkedin-photo-65448",
             "alt": "24/09/09/98aec2cb-5859-4624-8292-133a873fdb61_linkedin-photo-65448.linkedin-photo-65448"
-          }
+          },
+          "URL": "https://www.matalan.co.uk/"
         },
         "roles": [
           {
@@ -255,7 +256,7 @@
             "finishDate": "2022-01-31",
             "challenges": [
               {
-                "description": "Skills: Microsoft Office · Inglés · Velocidad"
+                "description": "Gestión y supervisión del inventario, asegurando la precisión en el registro y control de existencias en el almacén.\n\nUso del software Manhattan para el control del desarrollo de la operativa.\n\nCoordinación de la recepción y almacenamiento de mercancias, aseguando que se cumplan los estándares de calidad y seguridad.\n\nRealización de auditorías de inventario periódicas para asegurar la exactitud de los registros y la disponibilidad de productos."
               }
             ]
           }
