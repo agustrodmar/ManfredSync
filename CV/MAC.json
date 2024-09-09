@@ -268,7 +268,8 @@
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/09/b600c43b-cfd1-459c-9cc7-81bcf4c28960_linkedin-photo-65448.linkedin-photo-65448",
             "alt": "24/09/09/b600c43b-cfd1-459c-9cc7-81bcf4c28960_linkedin-photo-65448.linkedin-photo-65448"
-          }
+          },
+          "URL": "https://www.juntadeandalucia.es/organismos/iaj.html"
         },
         "roles": [
           {
@@ -277,7 +278,17 @@
             "finishDate": "2015-06-30",
             "challenges": [
               {
-                "description": "Skills: Atención al cliente · Políticas públicas · Microsoft Office · Telefonía"
+                "description": "Gestión y supervisión de proyectos administrativos, asegurando el cumplimiento de los objetivos y la normativa vigente.\n\nElaboración de informes y análisis de datos para la toma de decisiones estratégicas en la administración pública.\n\nDesarrollo e implementación de procedimientos administrativos para mejorar la eficiencia y la calidad de los servicios del IAJ."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft Office 365",
+                "type": "technology"
+              },
+              {
+                "name": "SPSS",
+                "type": "technology"
               }
             ]
           }
