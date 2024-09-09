@@ -220,16 +220,21 @@
       },
       {
         "organization": {
-          "name": "Greenbridge Technology, Inc"
+          "name": "Greenbridge Technology, Inc",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/09/644a784f-bbe5-44d2-be55-499c44a4718f_images.png",
+            "alt": "images.png"
+          },
+          "URL": "https://www.greenbridge.co.uk/"
         },
         "roles": [
           {
-            "name": "Administrativo de inventario // Soporte IT",
+            "name": "Soporte IT",
             "startDate": "2022-01-01",
             "finishDate": "2022-08-31",
             "challenges": [
               {
-                "description": "Skills: Microsoft Office · Inglés · Trabajo en equipo · Velocidad"
+                "description": "Mantenimiento y gestión del stock para los equipos de los ingenieros.\n\nReemplazo de componentes y periféricos para dispositivos electrónicos de los clientes.\n\nTesteo y puesta a punto del hardware del cliente.\n\nLimpieza de datos de dispositivos de almacenamiento, conforme a la Ley de Protección de Datos vigente.\n"
               }
             ]
           }
