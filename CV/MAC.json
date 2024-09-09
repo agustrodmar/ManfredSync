@@ -1,0 +1,687 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Agustín",
+      "surnames": "Rodríguez Márquez",
+      "title": "Esfuerzo, pasión, honestidad y compromiso en mi trabajo. Desarrollador de Software.",
+      "description": "Soy un desarrollador con 2 años de experiencia, donde he adquirido habilidades en diversas tecnologías y lenguajes de programación. Mi enfoque actual es el desarrollo back-end, donde siento que puedo aplicar mis habilidades para ofrecer soluciones innovadoras y eficientes.\n\nCuento con titulación en Desarrollo de Aplicaciones Multiplataforma. Antes de mi transición a la tecnología, trabajé durante 8 años en administración y 2 años en control de stock en el sector de la logística. Esta experiencia me ha proporcionado una sólida base en la toma de decisiones estratégicas y la gestión de recursos. Mi formación de Posgrado en Análisis Político, Administración y Gestión Pública complementa mi conjunto de habilidades, permitiéndome aportar una perspectiva de análisis única en el campo de la automatización de procesos y el desarrollo de aplicaciones.\n\nAdemás, soy bilingüe en inglés y español, lo que me permite manejarme con fluidez en entornos internacionales y establecer relaciones comerciales con clientes y proveedores.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/09/65f22ee8-b9cd-4799-bca1-5ce930a5e741_linkedin-photo-65448.linkedin-photo-65448",
+        "alt": "24/09/09/65f22ee8-b9cd-4799-bca1-5ce930a5e741_linkedin-photo-65448.linkedin-photo-65448"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJRwforyTNDQ0RCjpcQlf6oOo)",
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "San Fernando"
+      }
+    },
+    "recommendations": [
+      {
+        "title": "AristiDev",
+        "type": "other",
+        "URL": "https://www.youtube.com/c/aristidevs",
+        "authors": [
+          {
+            "name": "AristiDev",
+            "surnames": "AristiDev",
+            "title": "Author"
+          }
+        ]
+      },
+      {
+        "title": "Clean Code // Código Limpio",
+        "type": "reading",
+        "authors": [
+          {
+            "name": "Robert C.",
+            "surnames": "Martin",
+            "title": "Author"
+          }
+        ]
+      },
+      {
+        "title": "Midudev",
+        "type": "other",
+        "URL": "https://www.youtube.com/@midudev",
+        "authors": [
+          {
+            "name": "Midudev",
+            "surnames": "Midudev",
+            "title": "Author"
+          }
+        ]
+      },
+      {
+        "title": "Refactoring",
+        "type": "reading",
+        "URL": "https://es.wikipedia.org/wiki/Robert_C._Martin",
+        "authors": [
+          {
+            "name": "Martin",
+            "surnames": "Fowler",
+            "title": "Author"
+          }
+        ]
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/agustin-rodriguez-marquez-53886a137"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/agustrodmar"
+      },
+      {
+        "type": "other",
+        "URL": "https://agusrmarquezportfolio.netlify.app/"
+      },
+      {
+        "type": "other",
+        "URL": "https://www.codewars.com/users/agustrodmar"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "NETCheck",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/09/51c89a09-7927-4ac6-84df-b53e44952235_linkedin-photo-65448.linkedin-photo-65448",
+            "alt": "24/09/09/51c89a09-7927-4ac6-84df-b53e44952235_linkedin-photo-65448.linkedin-photo-65448"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2024-04-01",
+            "challenges": [
+              {
+                "description": "Skills: PHP · Bash · Linux · Apache"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Amazon",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/09/8202e6f9-33f1-48de-94f7-e28555eca04c_linkedin-photo-65448.linkedin-photo-65448",
+            "alt": "24/09/09/8202e6f9-33f1-48de-94f7-e28555eca04c_linkedin-photo-65448.linkedin-photo-65448"
+          }
+        },
+        "roles": [
+          {
+            "name": "Fulfillment Associate",
+            "startDate": "2023-06-01",
+            "finishDate": "2023-10-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Self-employed"
+        },
+        "roles": [
+          {
+            "name": "Técnico informático",
+            "startDate": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Greenbridge Technology, Inc"
+        },
+        "roles": [
+          {
+            "name": "Administrativo de inventario // Soporte IT",
+            "startDate": "2022-01-01",
+            "finishDate": "2022-08-31",
+            "challenges": [
+              {
+                "description": "Skills: Microsoft Office · Inglés · Trabajo en equipo · Velocidad"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Matalan",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/09/98aec2cb-5859-4624-8292-133a873fdb61_linkedin-photo-65448.linkedin-photo-65448",
+            "alt": "24/09/09/98aec2cb-5859-4624-8292-133a873fdb61_linkedin-photo-65448.linkedin-photo-65448"
+          }
+        },
+        "roles": [
+          {
+            "name": "Supervisor de inventario",
+            "startDate": "2021-01-01",
+            "finishDate": "2022-01-31",
+            "challenges": [
+              {
+                "description": "Skills: Microsoft Office · Inglés · Velocidad"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Instituto Andaluz de la Juventud-IAJ",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/09/b600c43b-cfd1-459c-9cc7-81bcf4c28960_linkedin-photo-65448.linkedin-photo-65448",
+            "alt": "24/09/09/b600c43b-cfd1-459c-9cc7-81bcf4c28960_linkedin-photo-65448.linkedin-photo-65448"
+          }
+        },
+        "roles": [
+          {
+            "name": "Administrativo",
+            "startDate": "2015-01-01",
+            "finishDate": "2015-06-30",
+            "challenges": [
+              {
+                "description": "Skills: Atención al cliente · Políticas públicas · Microsoft Office · Telefonía"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "EString",
+          "description": "eCommerce diseñado para la compra-venta de instrumentos musicales, diseñado con Figma y construido en Android y Jetpack Compose. ",
+          "URL": "https://drive.google.com/drive/u/0/folders/1iEG6i9faxIJjqBTxXLzeCIa_9TgCObk0",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/25/3b8996a2-e041-4a23-9b5c-5c4b20e6e36d_logoapp2.png",
+            "alt": "logoapp2.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-03-01",
+            "competences": [
+              {
+                "name": "Android Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud Firestore",
+                "type": "technology"
+              },
+              {
+                "name": "Google Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2024-05-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "OmdbSwipe",
+          "description": "Una pequeña app desarrollada con C# y Unity que permite buscar tu película favorita. ",
+          "URL": "https://github.com/agustrodmar/OmdbSwipe",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/25/6962399b-c078-4d61-8083-af5d7d8dc8d2_logoapp.png",
+            "alt": "logoApp.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-01-01",
+            "competences": [
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "Unity3D",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2024-01-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Blackjack Special",
+          "description": "Juego de Blackjack construido en Kotlin y Compose para Chromebooks.",
+          "URL": "https://github.com/agustrodmar/dint-proyecto2-BlackjackSpecial",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/25/68c33574-fcc9-4d93-beec-12568680f165_logoapp.png",
+            "alt": "logoapp.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-01-01",
+            "competences": [
+              {
+                "name": "Android Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "Google Firebase",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2024-01-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Porfolio App ",
+          "description": "Desarrollo de mi portfolio como desarrollador en formato app para Android. ",
+          "URL": "https://github.com/agustrodmar/PortfolioApp",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/25/a1ccbc97-0207-4465-89d2-157043439597_captura-de-pantalla-.png",
+            "alt": "Captura de pantalla 2024-07-25 a las 13.36.13.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-09-01",
+            "competences": [
+              {
+                "name": "Android Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2024-01-01"
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Matrícula de Honor en Desarrollo de Aplicaciones Multiplataforma",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/25/c81b9808-ad10-4ec9-bc2f-f1fb8d661442_matricula-honor_conv.png",
+            "alt": "MATRÍCULA HONOR_convert_MATRÍCULA HONOR_page_1.png-1.png"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2024-06-01"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "DE",
+        "fullName": "Alemán",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Android Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apache",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PL/SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VMWare",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Desarolllo de Aplicaciones Multimedia , Programación informática, aplicaciones específicas",
+        "startDate": "2022-09-01",
+        "institution": {
+          "name": "IES Rafael Alberti",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/09/1fcec02e-ecd6-49dc-a4d4-03362beec659_images.png",
+            "alt": "images.png"
+          }
+        },
+        "finishDate": "2024-06-30"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master's degree, Análisis de políticas públicas",
+        "startDate": "2015-01-01",
+        "institution": {
+          "name": "Universidad Complutense de Madrid",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/09/341b9387-ce1a-457d-a03f-c03d0269a9f9_linkedin-photo-65448.linkedin-photo-65448",
+            "alt": "24/09/09/341b9387-ce1a-457d-a03f-c03d0269a9f9_linkedin-photo-65448.linkedin-photo-65448"
+          }
+        },
+        "finishDate": "2016-01-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/agustin-rodriguez-marquez-53886a137",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/agustrodmar",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "agustrodmar@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Android Studio",
+          "type": "technology"
+        },
+        {
+          "name": "Apache",
+          "type": "technology"
+        },
+        {
+          "name": "C#",
+          "type": "technology"
+        },
+        {
+          "name": "Flutter",
+          "type": "technology"
+        },
+        {
+          "name": "Google Firebase",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JavaFX",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
+          "name": "NoSQL",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Spring",
+          "type": "technology"
+        },
+        {
+          "name": "Swift",
+          "type": "technology"
+        },
+        {
+          "name": "SwiftUI",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Mobile Developer"
+      ]
+    },
+    "status": "openToOffers",
+    "requirements": {
+      "contractTypes": [
+        "freelance",
+        "permanent"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Android Studio",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "Linux",
+        "type": "technology"
+      },
+      {
+        "name": "MySQL",
+        "type": "technology"
+      },
+      {
+        "name": "PHP",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Soy una persona apasionada, que se motiva con la idea de aprender nuevas tecnologías y crecer de forma profesional.\n\nValoro un entorno de trabajo proactivo, que me permita estar rodeado de personas que me ayuden a mejorar personal y profesionalmente.\n\nComo desarrollador de software, lo que más me apasiona es el desarrollo nativo en Android con Kotlin y Jetpack Compose, pero también tengo experiencia ligera con Desarrollo en Flutter y Dart. Además dispongo de equipos apple para el desarrollo en Swift y SwiftUI. \n\nActualmente trabajo en desarrollo back-end con PHP y Linux. El desarrollo back-end me apasiona y me gustaría seguir trabajando en este campo. \n\nAdicionalmente, tengo una alta capacidad de aprendizaje y siempre estoy dispuesto a aprender nuevas tecnologías en un entorno de trabajo exigente. \n\nMi entorno de trabajo ideal es en remoto, o en híbrido, con movilidad a la oficina de una vez al mes, o una vez a la semana, dependiendo de la distancia desde mi residencia.",
+    "goodPractices": "Me esfuerzo constantemente por mantenerme actualizado y mejorar mis habilidades para llevar a cabo las mejores prácticas a la hora de desarrollar mi código.\n\nSiempre intento leer nuevos artículos y estar al día de nuevas tecnologías y prácticas que pueda aplicar. \n\nCada poco tiempo suelo realizar cursos de Coursera u Openwebinars para introducirme en nuevas tecnologías y/o conocer enfoques distintos de desarrollo para tecnologías que ya domino.\n\nSiempre aplico principios que permitan mantener mi código legible, limpio y fácilmente mantenible, escribiendo código orientado a objetos, con patrones estructurales definidos (MVVM, MVC), manteniendo siempre los principios SOLID. ",
+    "projects": [
+      {
+        "name": "Blackjack Special"
+      },
+      {
+        "name": "EString"
+      },
+      {
+        "name": "OmdbSwipe"
+      },
+      {
+        "name": "Porfolio App "
+      }
+    ],
+    "bookmarks": [
+      {
+        "name": "AristiDev",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/25/17d19399-8507-45c6-b35a-4aa85af48b28_channels4_profile.jpg"
+      },
+      {
+        "name": "Clean Code // Código Limpio",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/25/18d72527-afa8-4e88-9715-862c01a9c046_dadad.jpg"
+      },
+      {
+        "name": "Midudev",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/25/773fb70c-ba9c-48dd-868b-e099b020b605_midudev_logo.jpeg"
+      },
+      {
+        "name": "Refactoring",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/25/4c6ba08e-aa43-405e-a42a-d719d1b0f001_adad.jpg"
+      }
+    ]
+  }
+}
