@@ -97,7 +97,8 @@
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/09/51c89a09-7927-4ac6-84df-b53e44952235_linkedin-photo-65448.linkedin-photo-65448",
             "alt": "24/09/09/51c89a09-7927-4ac6-84df-b53e44952235_linkedin-photo-65448.linkedin-photo-65448"
-          }
+          },
+          "URL": "https://netcheck.es/"
         },
         "roles": [
           {
@@ -105,7 +106,49 @@
             "startDate": "2024-04-01",
             "challenges": [
               {
-                "description": "Skills: PHP · Bash · Linux · Apache"
+                "description": "Desarrollo y mantenimiento de aplicativos y scripts para la automatización de procesos en PHP.\n\nGestión y mantenimiento de bases de datos basadas en PostgresSQL, MySQL y servidores LDAP.\n\nManejo de errores detallados para asegurar la integridad y la trazabilidad de los desarrollos.\n\nImplementación de lógica de negocio en el lado del cliente mediante Javascript.\n\nParticipación en desarrollo y mantenimiento del portal utilizando Liferay.\n\nColaboración con equipos multidisciplinarios para diseñar y desarrollar soluciones escalables y robustas.\n\nFuerte capacidad de resolución de problemas y análisis. Excelente manejo del tiempo y organización para gestionar múltiples proyectos simultáneamente. Habilidades de comunicación eectiva y trabajo en equipo. Enfoque proactivo y orientado al detalle para la entrega de soluciones de alta calidad."
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "LDAP",
+                "type": "technology"
+              },
+              {
+                "name": "Liferay",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PHPMyAdmin",
+                "type": "technology"
+              },
+              {
+                "name": "PHPStorm",
+                "type": "technology"
+              },
+              {
+                "name": "VanillaPHP",
+                "type": "technology"
               }
             ]
           }
