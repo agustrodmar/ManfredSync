@@ -476,6 +476,12 @@
       },
       {
         "skill": {
+          "name": "Apple iOS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Bash",
           "type": "technology"
         }
@@ -500,13 +506,31 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Figma",
           "type": "technology"
         }
       },
       {
         "skill": {
+          "name": "Flutter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Firebase",
           "type": "technology"
         }
       },
@@ -542,12 +566,6 @@
       },
       {
         "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "PHP",
           "type": "technology"
         }
@@ -560,7 +578,25 @@
       },
       {
         "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Unity3D",
           "type": "technology"
         }
       },
@@ -633,9 +669,6 @@
           "URL": "https://github.com/agustrodmar",
           "type": "github"
         }
-      ],
-      "contactMails": [
-        "agustrodmar@gmail.com"
       ]
     },
     "preferences": {
@@ -738,11 +771,11 @@
         "type": "technology"
       },
       {
-        "name": "MySQL",
+        "name": "PHP",
         "type": "technology"
       },
       {
-        "name": "PHP",
+        "name": "PostgreSQL",
         "type": "technology"
       }
     ],
