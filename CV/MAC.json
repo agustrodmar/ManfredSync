@@ -664,6 +664,21 @@
           }
         },
         "finishDate": "2016-01-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Soporte IT de Google",
+        "startDate": "2023-10-01",
+        "institution": {
+          "name": "Google - Coursera",
+          "description": "Administración de sistemas y servicios de infraestructura de TI\n\nAspectos básicos de la asistencia técnica\n\nLos bits y bytes de las redes informáticas\n\nSistemas operativos y tú: Convertirse en un usuario avanzado\n\nSeguridad informática: defensa contra las artes oscuras digitales",
+          "URL": "https://coursera.org/share/142f70c6a52364521cdb8c9101fc89df",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/10/29/7efefedd-6519-4b3a-9290-49200fb5beff_certificate_landing_.jpeg",
+            "alt": "CERTIFICATE_LANDING_PAGE~WR589FVYZHTL.jpeg"
+          }
+        }
       }
     ],
     "softSkills": [
