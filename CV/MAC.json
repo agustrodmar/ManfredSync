@@ -609,6 +609,35 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Automatización de Procesos con Python",
+        "startDate": "2023-02-01",
+        "institution": {
+          "name": "Google - Coursera",
+          "description": "Using Python to Interact with the Operating System\n\nTroubleshooting and Debugging Techniques\n\nConfiguration Management and the Cloud\n\nIntroduction to Git and GitHub\n\nAutomating Real-World Tasks with Python\n\nCrash Course on Python",
+          "URL": "https://coursera.org/share/16c271da05b8654c4f2f814e800ed900",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/10/29/5fd7acad-8945-45e2-8f4a-5bee59a13785_certificate_landing_.jpeg",
+            "alt": "CERTIFICATE_LANDING_PAGE~7QMRPYLHA7GV.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bash",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Desarolllo de Aplicaciones Multimedia , Programación informática, aplicaciones específicas",
