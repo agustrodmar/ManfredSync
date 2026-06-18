@@ -654,6 +654,71 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "Especialización en Inteligencia Artificial y Big Data.",
+        "startDate": "2024-09-01",
+        "institution": {
+          "name": "Centro Integrado de Educación a Distancia (CIDEAD)",
+          "description": "El Curso de Especialización en Inteligencia Artificial y Big Data es una titulación oficial reglada de Formación Profesional en España. Está diseñado para dotar a profesionales técnicos de las competencias necesarias para desarrollar, implantar y mantener sistemas de IA, modelado de datos y analítica avanzada, respondiendo a la demanda actual del sector tecnológico.\n\n### REQUISITOS DE ACCESO\nDirigido exclusivamente a titulados en Grados Superiores (habitualmente DAM, DAW o ASIR).\n\n### DURACIÓN GENERAL\n600 horas (equivalente a un curso académico completo, que suele incluir formación en centros de trabajo o proyectos reales).\n\n### PLAN DE ESTUDIOS / MÓDULOS CLAVE\n1. Modelos de Inteligencia Artificial (Machine Learning y Deep Learning).\n2. Sistemas de Big Data (Arquitecturas de almacenamiento y procesamiento masivo).\n3. Big Data Aplicado (Casos de uso de negocio y analítica).\n4. Programación de Inteligencia Artificial (Python, R y librerías especializadas).\n5. Sistemas de Aprendizaje Automático (Despliegue y MLOps).\n6. Procesamiento del Lenguaje Natural y Visión Artificial.\n\n### PERFIL PROFESIONAL / SALIDAS\n- Desarrollador de Inteligencia Artificial y Machine Learning.\n- Científico / Analista de Datos (Data Scientist / Data Analyst).\n- Arquitecto de Datos / Ingeniero de Big Data (Data Engineer).\n- Especialista en soluciones de IA con",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/06/18/ebf2b320-ae3a-4944-a5e5-7c0fed3fa0d7_1000091685.jpg",
+            "alt": "1000091685.jpg"
+          }
+        },
+        "finishDate": "2025-06-01",
+        "linkedCompetences": [
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Google Cloud",
+            "type": "technology"
+          },
+          {
+            "name": "Hadoop",
+            "type": "technology"
+          },
+          {
+            "name": "Hive",
+            "type": "technology"
+          },
+          {
+            "name": "Hugging Face",
+            "type": "technology"
+          },
+          {
+            "name": "MatPlotlib",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "R",
+            "type": "technology"
+          },
+          {
+            "name": "Scikit-learn",
+            "type": "technology"
+          },
+          {
+            "name": "Snowflake",
+            "type": "technology"
+          },
+          {
+            "name": "Spark",
+            "type": "technology"
+          },
+          {
+            "name": "TensorFlow",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Master's degree, Análisis de políticas públicas",
         "startDate": "2015-01-01",
         "institution": {
