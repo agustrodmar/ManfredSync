@@ -446,19 +446,9 @@
   "knowledge": {
     "languages": [
       {
-        "name": "DE",
-        "fullName": "Alemán",
-        "level": "Limited working proficiency"
-      },
-      {
         "name": "EN",
         "fullName": "Inglés",
         "level": "Full professional proficiency"
-      },
-      {
-        "name": "ES",
-        "fullName": "Español",
-        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
