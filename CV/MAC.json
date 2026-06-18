@@ -449,6 +449,11 @@
         "name": "EN",
         "fullName": "Inglés",
         "level": "Full professional proficiency"
+      },
+      {
+        "name": "IT",
+        "fullName": "Italiano",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
